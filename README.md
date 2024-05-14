@@ -1,2 +1,1 @@
-# activitat5
-Práctica iestacio
+David Muntean
